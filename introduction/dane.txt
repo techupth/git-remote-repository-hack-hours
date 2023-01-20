@@ -1,0 +1,4 @@
+Nickname: Dane
+Age: 16
+Occupation: Hunting dog
+Hobbies: hunting boars, guarding
